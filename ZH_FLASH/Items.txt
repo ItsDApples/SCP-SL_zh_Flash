@@ -1,38 +1,38 @@
-0~<b><color=#1AD9FFFF>清洁工钥匙卡</color></b>
-1~<b><color=#1AD9FFFF>科学家钥匙卡</color></b>
-2~<b><color=#1AD9FFFF>研究主管钥匙卡</color></b>
-3~<b><color=#1AD9FFFF>区域总监钥匙卡</color></b>
-4~<b><color=#1AD9FFFF>安保警卫钥匙卡</color></b>
-5~<b><color=#1AD9FFFF>MTF列兵钥匙卡</color></b>
-6~<b><color=#1AD9FFFF>收容工程师钥匙卡</color></b>
-7~<b><color=#1AD9FFFF>MTF特工钥匙卡</color></b>
-8~<b><color=#1AD9FFFF>MTF指挥官钥匙卡</color></b>
-9~<b><color=#1AD9FFFF>设施总监钥匙卡</color></b>
-10~<b><color=#1AD9FFFF>混沌分裂者破解装置</color></b>
-11~<b><color=#1AD9FFFF>O5级别钥匙卡</color></b>
-12~<b><color=#CCFFB2FF>对讲机</color></b>~允许通过设备进行远距离通信。\n通信范围可进行调整。
+0~<b><color=#FFA9FFFF>清洁工钥匙卡</color></b>
+1~<b><color=#FFFFA1FF>科学家钥匙卡</color></b>
+2~<b><color=#FFFF00FF>研究主管钥匙卡</color></b>
+3~<b><color=#66CC99FF>区域总监钥匙卡</color></b>
+4~<b><color=#6E7F9CFF>安保警卫钥匙卡</color></b>
+5~<b><color=#A3D8FFFF>MTF列兵钥匙卡</color></b>
+6~<b><color=#99CC99FF>收容工程师钥匙卡</color></b>
+7~<b><color=#0096FFFF>MTF特工钥匙卡</color></b>
+8~<b><color=#005BDBFF>MTF指挥官钥匙卡</color></b>
+9~<b><color=#D83B2BFF>设施总监钥匙卡</color></b>
+10~<b><color=#008F1CFF>混沌分裂者破解装置</color></b>
+11~<b><color=#999999FF>O5级别钥匙卡</color></b>
+12~<b><color=#99CC00FF>对讲机</color></b>~<color=#999999FF><size=90%><b>「 允许持有的玩家进行远程通讯 」</b></size></color>\n\n<size=70%><color=#FFFFCCFF>[ SR | <b>108</b> 米 ]   [ LR | <b>1080</b> 米 ]\n\n[ MR | <b>180</b> 米 ]   [ UR | <b>7200</b> 米 ]</color></size>
 13~<b><color=#FFFFA1FF>C</color><color=#FFFF9CFF>O</color><color=#FFFF96FF>M</color><color=#FFFF91FF>-</color><color=#FFFF8CFF>1</color><color=#FFFF87FF>5</color> <color=#FFFF82FF>手</color><color=#FFFF7CFF>枪</color></b>
-14~<b><color=#D83B2BFF>急救包</color></b>~治疗你的伤势。
-15~<b><color=#FFFF7CFF>手电筒</color></b>~上帝说:“要有光！”
-16~<b><color=#FFA9FFFF>M</color><color=#F0B1FFFF>i</color><color=#DAB9FFFF>c</color><color=#C2C1FFFF>r</color><color=#A9C8FFFF>o</color> <color=#89CFFFFF>H</color><color=#7AD2FFFF>.</color><color=#5FD5FFFF>I</color><color=#49D7FFFF>.</color><color=#1AD9FFFF>D.</color></b>~专门为收容异常而设计的重型放电装置。
-17~<b><color=#00FF00FF>SCP-500</color></b>~万能药。\n立即恢复所有生命值并治愈大多数病痛。~万能药
-18~<b><color=#00FF00FF>SCP-207</color></b>~提升行动能力，同时逐渐损坏你的身体。~一箱可乐
+14~<b><color=#D83B2BFF>急救包</color></b>~<color=#999999FF><size=90%><b>「 治疗你的伤势 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 使用时间 - <b>5</b> 秒 ]</color>\n<color=red>[ <b>✚</b> 恢复血量 - <b>65</b> HP ]</color>\n<color=#FFAB00>[ 清除流血与烧伤的负面状态 ]</color></size>
+15~<b><color=#FFFF7CFF>手电筒</color></b>~<color=#FFCC00FF><size=100%><b>「 上帝说: "要有光!" 」</b></size></color>
+16~<b><color=#FFA9FFFF>M</color><color=#F0B1FFFF>i</color><color=#DAB9FFFF>c</color><color=#C2C1FFFF>r</color><color=#A9C8FFFF>o</color> <color=#89CFFFFF>H</color><color=#7AD2FFFF>.</color><color=#5FD5FFFF>I</color><color=#49D7FFFF>.</color><color=#1AD9FFFF>D.</color></b>~<color=#99CCFFFF><size=100%><b>「 便携式高压电浆喷射器 」</b></size></color>
+17~<b><color=#D83B2BFF>SCP-500</color></b>~<color=#999999FF><size=90%><b>「 缓解你所有的烦恼和痛苦 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 使用时间 - <b>1</b> 秒 ]</color>\n<color=red>[ <b>✚</b> 立即恢复血量 - <b>100</b> HP ]</color>\n<color=#FFAB00>[ 清除大部分状态 ]
+18~<b><color=#D83B2BFF>SCP-207</color></b>~<color=#999999FF><size=85%><b>「 提升行动能力同时损坏你的身体 」</b></size></color>\n\n<size=70%><color=#FFFF7C>[ 🕒 使用时间 - <b>3</b> 秒 ]</color>\n<color=red>[ 💔 逐渐消耗HP ]</color>\n<size=70%><color=#FFAB00>[ ⚠ 请勿与 <color=#4D8033><b>SCP-1853</b></color> 同时使用 ]</color></size></size>
 19~<b><color=#008F1CFF>12/70 毫米霰弹</color></b>
 20~<b><color=#70C3FFFF>M</color><color=#6BC0FFFF>T</color><color=#64BCFFFF>F</color><color=#5DB8FFFF>-</color><color=#54B4FFFF>E</color><color=#4CAFFFFF>1</color><color=#44ABFFFF>1</color><color=#3AA7FFFF>-</color><color=#30A2FFFF>S</color><color=#249DFFFF>R</color> <color=#1499FFFF>步</color><color=#0096FFFF>枪</color></b>
 21~<b><color=#A3D8FFFF>C</color><color=#9ED6FFFF>r</color><color=#99D4FFFF>o</color><color=#94D2FFFF>s</color><color=#8FD0FFFF>s</color><color=#8ACEFFFF>v</color><color=#85CCFFFF>e</color><color=#80CAFFFF>c</color> <color=#7AC7FFFF>冲</color><color=#75C5FFFF>锋</color><color=#70C3FFFF>枪</color></b>
 22~<b><color=#0096FFFF>5.56×45 毫米子弹</color></b>
 23~<b><color=#6E7F9CFF>F</color><color=#6B7B96FF>S</color><color=#677791FF>P</color><color=#63738CFF>-</color><color=#606E87FF>9</color> <color=#5C6A82FF>冲</color><color=#59667DFF>锋</color><color=#556278FF>枪</color></b>
 24~<b><color=#1CB352FF>L</color><color=#1BAD50FF>o</color><color=#1BA84DFF>g</color><color=#1AA34BFF>i</color><color=#199E49FF>c</color><color=#189946FF>e</color><color=#179444FF>r</color> <color=#178F41FF>轻</color><color=#168A3FFF>机</color><color=#15853DFF>枪</color></b>
-25~<b><color=#0096FFFF>高爆手雷</color></b>~一种能造成大量伤害的高爆弹。\n投掷后会在短暂延迟后引爆。
-26~<b><color=#556278FF>闪光弹</color></b>~致盲并扰乱你的敌人。\n投掷后会在短暂延迟后引爆。
+25~<b><color=#0096FFFF>高爆手雷</color></b>~<color=#999999FF><size=100%><b>「 投掷后对敌人产生范围伤害 」</b></size></color>
+26~<b><color=#556278FF>闪光弹</color></b>~<color=#999999FF><size=100%><b>「 致盲并扰乱你的敌人 」</b></size></color>
 27~<b><color=#008F1CFF>.44 马格南弹</color></b>
 28~<b><color=#008F1CFF>7.62×39 毫米子弹</color></b>
 29~<b><color=#0096FFFF>9×19 毫米子弹</color></b>
 30~<b><color=#6E7F9CFF>C</color><color=#6B7B96FF>O</color><color=#677791FF>M</color><color=#63738CFF>-</color><color=#606E87FF>1</color><color=#5C6A82FF>8</color> <color=#59667DFF>手</color><color=#556278FF>枪</color></b>
-31~<b><color=#FFFF00FF>SCP-018</color></b>~具有极大势能的弹力球。\n在高速弹射时会造成致命伤害。~弹力球
-32~<b><color=#FFFF00FF>SCP-268</color></b>~戴上后短时间内"消失”，任何交互行为都将打断其效果。~疏忽帽
-33~<b><color=#D83B2BFF>肾上腺素</color></b>~暂时恢复体力并提升伤害抗性。
-34~<b><color=#D83B2BFF>止痛药</color></b>~逐渐地恢复生命值。
+31~<b><color=#FFFF00FF>SCP-018</color></b>~<color=#999999FF><size=100%><b>「 具有极大势能的弹力球 」</b></size></color>
+32~<b><color=#FFFF00FF>SCP-268</color></b>~<color=#999999FF><size=100%><b>「 戴上后短时间"消失" 」</b></size></color>
+33~<b><color=#D83B2BFF>肾上腺素</color></b>~<color=#999999FF><size=100%><b>「 致盲并扰乱你的敌人 」</b></size></color>
+34~<b><color=#D83B2BFF>止痛药</color></b>~<color=#999999FF><size=100%><b>「 致盲并扰乱你的敌人 」</b></size></color>
 35~<b><color=#CCCCCCFF>硬币</color></b>~你不确定为什么你会带着这个东西...
 36~<b><color=#556278FF>轻型护甲</color></b>
 37~<b><color=#0096FFFF>战术护甲</color></b>

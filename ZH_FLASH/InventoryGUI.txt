@@ -15,16 +15,16 @@
 共计[amount]
 护甲穿透
 奔跑时射击精度
-按下 <b>[key]</b> 键发出奸笑声
-剩余电量: [percent]
-剩余弹药: [rem]
-<size=720%>\n</size>按住 <b>[primary]</b> 使用快速射击模式</voffset>
-按住 <b>[secondary]</b> 使用高能蓄力模式
-<size=720%>\n</size>按下 <b>[key]</b> 切换射击模式
-<size=720%>\n</size>按下 <b>[key]</b> 进行攻击
-按住 <b>[key]</b> 进行充能
-<size=690%>\n</size><size=130%>Micro H.I.D. 放电已就绪</size>\n按 <b>[primary]</b> 发射
-<size=690%>\n</size><size=130%>Micro H.I.D. 功能受限</size>\n此武器已损坏
-<size=720%>\n</size>SCP-127 的力量会随着您与它联结的加深而变得更强
-<size=720%>\n</size>使用$方向键$或$[up], [left], [down], 以及[right]键$来控制蛇的移动
-按下 [key] 键发出奸笑声
+<color=#99CCFFFF>按下</color> [key] <color=#99CCFFFF>键发出奸笑声</color>
+<color=#CCFF99FF>⚡剩余电量: [percent]</color>
+<color=#70C3FFFF>⚡剩余弹药: [rem]</color>
+按住 [primary] 使用 <color=#99CCFFFF><b>快速射击模式</b></color>
+按住 [secondary] 使用 <color=#99CCFFFF><b>高能蓄力模式</b></color>
+按下 [key] <color=#99CCFFFF>切换射击模式</color>
+按下 [key] <color=#99CCFFFF>进行攻击</color>
+按住 [key] <color=#99CCFFFF>进行充能</color>
+<color=#FFA9FFFF>M</color><color=#F0B1FFFF>i</color><color=#DAB9FFFF>c</color><color=#C2C1FFFF>r</color><color=#A9C8FFFF>o</color> <color=#89CFFFFF>H</color><color=#7AD2FFFF>.</color><color=#5FD5FFFF>I</color><color=#49D7FFFF>.</color><color=#1AD9FFFF>D.</color> <color=#99CCFFFF>放电已就绪</b>\n<color=#99CCFFFF>按</color> <b>[primary]</b> <color=#99CCFFFF>发射</color>
+<color=#FFA9FFFF>M</color><color=#F0B1FFFF>i</color><color=#DAB9FFFF>c</color><color=#C2C1FFFF>r</color><color=#A9C8FFFF>o</color> <color=#89CFFFFF>H</color><color=#7AD2FFFF>.</color><color=#5FD5FFFF>I</color><color=#49D7FFFF>.</color><color=#1AD9FFFF>D.</color> <color=#FF0033FF><b>功能受限</b></color>\n<color=#FF0033FF><b>[此武器已损坏]</b></color>
+<color=#CCFF99FF><b>SCP-127</b></color> <color=#99CCFFFF>的力量会随着您与它<color=#FFA9FFFF><b>联结的加深</b></color>而变得更强</color>
+<color=#99CCFFFF>使用</color> $方向键$ <color=#99CCFFFF>或</color> $[up], [left], [down], [right]键$ <color=#99CCFFFF>来控制蛇的移动</color>
+<color=#99CCFFFF>按下</color> [key] <color=#99CCFFFF>键发出奸笑声</color>
